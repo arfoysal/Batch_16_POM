@@ -1,0 +1,7 @@
+https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+mvn test
+mvn test -Dbrowser="chrome"
+mvn test -Dbrowser="firefox" -Dxmlfilename="testNG.xml"
+mvn test -Dbrowser="firefox" -Dtestfilename="LoginTest"
+TestNG Group create
+https://www.lambdatest.com/blog/grouping-test-cases-in-testng/
