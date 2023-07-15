@@ -4,6 +4,7 @@ test-output
 /target/
 ### Eclipse ###
 .metadata
+
 bin/
 tmp/
 *.tmp
